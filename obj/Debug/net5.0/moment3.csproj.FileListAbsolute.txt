@@ -1,0 +1,16 @@
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.exe
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.deps.json
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.runtimeconfig.json
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.runtimeconfig.dev.json
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.dll
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\ref\moment3.dll
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\bin\Debug\net5.0\moment3.pdb
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.csproj.AssemblyReference.cache
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.AssemblyInfoInputs.cache
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.AssemblyInfo.cs
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.csproj.CoreCompileInputs.cache
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.dll
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\ref\moment3.dll
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.pdb
+C:\Users\Kristoffer\Documents\Felicia\MIUN andra året\c_sharp\moment3\obj\Debug\net5.0\moment3.genruntimeconfig.cache
